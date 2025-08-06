@@ -13,7 +13,7 @@ Now it's time to practice the Grid tools we've learned and create a layout that 
 ![desired outcome](./desired-outcome.png)
 
 ### Self Check
-- The second column is three times larger than the first
+
 - The third row is five times larger than the others
 - The header and footer elements span across both columns
 - The sidebar element only spans across the first column
