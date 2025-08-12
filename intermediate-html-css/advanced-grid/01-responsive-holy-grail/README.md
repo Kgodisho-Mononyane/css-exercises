@@ -17,7 +17,4 @@ When the browser is stretched wide:
 ![desired outcome wide](./desired-outcome-wide.png)
 
 ### Self Check
-- The grid tracks do not use static sizes (no pixels!)
-- The columns narrow and widen as the viewport changes size
-- Row 3 gets taller to accomodate text wrapping as you narrow the viewport size 
 
