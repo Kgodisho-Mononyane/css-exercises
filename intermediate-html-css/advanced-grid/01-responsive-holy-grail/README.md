@@ -17,7 +17,6 @@ When the browser is stretched wide:
 ![desired outcome wide](./desired-outcome-wide.png)
 
 ### Self Check
-- The gap is 15px
 - The grid has two columns
 - The grid has four rows
 - The grid tracks do not use static sizes (no pixels!)
