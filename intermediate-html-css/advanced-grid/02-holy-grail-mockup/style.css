@@ -59,6 +59,9 @@
 
 .article {
   background-color: #bccbde;
+  display: grid;
+  grid-column: 2 / 3;
+  grid-template-columns: repeat(6, 1fr);
 }
 
 .article p {
